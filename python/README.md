@@ -15,4 +15,4 @@ Python fundamentals: practice labs and core-topic walkthroughs.
   - `8-file-io/`
   - `9-oop/`
 - `python-core-topics.md` — 9 short programs covering variables, conditionals, functions, lists/tuples, dictionaries, iteration, file handling, regex, and a basic networked request
-- `python-basics-learning-resource.md` — link to the cheatsheet, which can help you a lot.
+- `learning-resource:` — [Python CheatSheet by Haris Ali Khan (CodeWithHarry)](https://www.codewithharry.com/blogpost/python-cheatsheet). 
