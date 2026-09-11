@@ -1,18 +1,50 @@
-# Python
+# Python Learning Path
 
-Python fundamentals: practice labs and core-topic walkthroughs.
+Python fundamentals through topic-based practice labs, short programs, and focused exercises.
 
 ## Contents
 
-- `fundamentals/` — labs by topic, in order:
-  - `1-variables-datatypes/`
-  - `2-strings/`
-  - `3-lists-tuples/`
-  - `4-dict-sets/`
-  - `5-conditionals/`
-  - `6-loops/`
-  - `7-functions-recursion/`
-  - `8-file-io/`
-  - `9-oop/`
-- `python-core-topics.md` — 9 short programs covering variables, conditionals, functions, lists/tuples, dictionaries, iteration, file handling, regex, and a basic networked request
-- `learning-resource/cheetsheet:` — [Python CheatSheet by Haris Ali Khan (CodeWithHarry)](https://www.codewithharry.com/blogpost/python-cheatsheet). 
+### Fundamentals
+
+Work through the topics in order:
+
+1. `1-variables-datatypes/`
+2. `2-strings/`
+3. `3-lists-tuples/`
+4. `4-dict-sets/`
+5. `5-conditionals/`
+6. `6-loops/`
+7. `7-functions-recursion/`
+8. `8-file-io/`
+9. `9-oop/`
+
+### Additional Practice
+
+- `5-exception-handling/` — focused practice with exception handling
+- `python-core-topics.md` — short programs covering variables, conditionals, functions, lists/tuples, dictionaries, iteration, file handling, regex, and a basic networked request
+
+## Suggested Path
+
+```text
+Syntax & data types
+        ↓
+Strings & collections
+        ↓
+Conditionals & loops
+        ↓
+Functions & recursion
+        ↓
+Files & OOP
+        ↓
+Exception handling & practical programs
+```
+
+## Learning Resource
+
+- [Python Cheat Sheet — CodeWithHarry](https://www.codewithharry.com/blogpost/python-cheatsheet)
+
+## Purpose
+
+This section is learning material, not a collection of production-ready applications. The goal is to keep examples small enough to understand, modify, and explain while building a foundation for later security automation and tooling.
+
+[Back to LearnStack](../README.md)
