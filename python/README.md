@@ -20,11 +20,11 @@ Work through the topics in order:
 
 ### Additional Practice
 
-- `5-exception-handling/` — focused practice with exception handling
 - `python-core-topics.md` — short programs covering variables, conditionals, functions, lists/tuples, dictionaries, iteration, file handling, regex, and a basic networked request
 
 ### Tools
 
+- `tools/exception-handling/` — focused practice with `try`/`except`/`finally`
 - `tools/todo-list-manager/` — a small menu-driven CLI to-do list app (add/view/update tasks), practicing functions and program structure beyond single-topic exercises
 
 ## Suggested Path
