@@ -21,6 +21,7 @@ Practice Python fundamentals through topic-based labs and short core-topic progr
 - File I/O
 - Object-oriented programming
 - Exception handling
+- Small CLI tools (to-do list manager)
 
 ### Shell Scripting
 
